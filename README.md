@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Dennis</h1>
 <h3 align="center">An ever improving Software Engineer</h3>
-<img align="right" alt="Coding" width="200" src="https://i.gifer.com/MQIW.gif"/>
+<!-- <img align="right" alt="Coding" width="200" src="https://i.gifer.com/MQIW.gif"/> -->
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deedadey-dd" alt="deedadey-dd" /></a> </p>
